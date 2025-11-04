@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deal-Or-No-Deal_Niqolai-up")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83922838e22c6c65614d6dc1360bf38b0cb27e5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deal-Or-No-Deal_Niqolai-up")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deal-Or-No-Deal_Niqolai-up")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

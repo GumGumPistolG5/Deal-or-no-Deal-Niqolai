@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Deal-Or-No-Deal_Niqolai-up/1.0.0": {
+        "runtime": {
+          "Deal-Or-No-Deal_Niqolai-up.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deal-Or-No-Deal_Niqolai-up/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

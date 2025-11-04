@@ -1,0 +1,15 @@
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\bin\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.exe
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\bin\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.deps.json
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\bin\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.runtimeconfig.json
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\bin\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.dll
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\bin\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.pdb
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.AssemblyInfoInputs.cache
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.AssemblyInfo.cs
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.csproj.CoreCompileInputs.cache
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.sourcelink.json
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.dll
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\refint\Deal-Or-No-Deal_Niqolai-up.dll
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.pdb
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\Deal-Or-No-Deal_Niqolai-up.genruntimeconfig.cache
+C:\Users\UTANNJ1\OneDrive - Otago Polytechnic\Programming assignment\Deal-or-no-Deal-Niqolai\Deal-Or-No-Deal_Niqolai-up\Deal-Or-No-Deal_Niqolai-up\obj\Debug\net8.0\ref\Deal-Or-No-Deal_Niqolai-up.dll
