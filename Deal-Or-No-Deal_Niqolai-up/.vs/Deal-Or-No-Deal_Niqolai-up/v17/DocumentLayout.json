@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTANNJ1\\OneDrive - Otago Polytechnic\\Programming assignment\\Deal-or-no-Deal-Niqolai\\Deal-Or-No-Deal_Niqolai-up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E602E862-D4D3-41A5-87FC-0DDE73C60C59}|Deal-Or-No-Deal_Niqolai-up\\Deal-Or-No-Deal_Niqolai-up.csproj|c:\\users\\utannj1\\onedrive - otago polytechnic\\programming assignment\\deal-or-no-deal-niqolai\\deal-or-no-deal_niqolai-up\\deal-or-no-deal_niqolai-up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E602E862-D4D3-41A5-87FC-0DDE73C60C59}|Deal-Or-No-Deal_Niqolai-up\\Deal-Or-No-Deal_Niqolai-up.csproj|solutionrelative:deal-or-no-deal_niqolai-up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTANNJ1\\OneDrive - Otago Polytechnic\\Programming assignment\\Deal-or-no-Deal-Niqolai\\Deal-Or-No-Deal_Niqolai-up\\Deal-Or-No-Deal_Niqolai-up\\Program.cs",
+              "RelativeDocumentMoniker": "Deal-Or-No-Deal_Niqolai-up\\Program.cs",
+              "ToolTip": "C:\\Users\\UTANNJ1\\OneDrive - Otago Polytechnic\\Programming assignment\\Deal-or-no-Deal-Niqolai\\Deal-Or-No-Deal_Niqolai-up\\Deal-Or-No-Deal_Niqolai-up\\Program.cs",
+              "RelativeToolTip": "Deal-Or-No-Deal_Niqolai-up\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:27:10.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
